@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Minies",
+        "price": 30,
+        "imgURL": "/images/minies.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "ND",
+        "price": 900,
+        "imgURL": "/images/nd.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Ever Clean",
+        "price": 300,
+        "imgURL": "/images/everclean.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Wanpy",
+        "price": 120,
+        "imgURL": "/images/wanpy.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Furminator",
+        "price": 250,
+        "imgURL": "/images/furminator.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Dreamies",
+        "price": 10,
+        "imgURL": "/images/dreamies.jpeg"
+    }
+]
